@@ -6,11 +6,7 @@ Chatjpt: viết prompt và chỉnh sửa
 
 Bing: tạo ảnh 3D
 
-Đường link repository trên GitHub: " https://github.com/hoangvanvinh-tg/.Cv-portfolio "
-
-Đường link website đã triển khai: " https://hoangvanvinh-tg.github.io/.Cv-portfolio/ "
-
-Đường link video trình bày:" https://drive.google.com/file/d/19A4jw-xYyeG6jiy_nw0kLXVcoq_z--ND/view?usp=drive_link "
+#Đường link video trình bày:" https://drive.google.com/file/d/19A4jw-xYyeG6jiy_nw0kLXVcoq_z--ND/view?usp=drive_link "
 
 ---
 Bước 1:
